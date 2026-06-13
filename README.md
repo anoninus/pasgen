@@ -12,9 +12,7 @@ pasgen <length>
 
 Example:
 ```sh
-#command:
 pasgen 20
-#commented:
 #wIPQJ*BpD1?4]BF/5hjn
 ```
 
@@ -32,7 +30,3 @@ cd pasgen
 cargo build --release
 ./target/release/pasgen 20
 ```
-
-### Option 3: Pre-built binary
-Check the [Releases](https://github.com/anoninus/pasgen/releases) page for downloadable binaries.
-
