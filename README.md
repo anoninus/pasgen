@@ -12,10 +12,10 @@ pasgen <length>
 
 Example:
 ```sh
-#command -->
+#command:
 pasgen 20
-#output --> 
-wIPQJ*BpD1?4]BF/5hjn
+#commented:
+#wIPQJ*BpD1?4]BF/5hjn
 ```
 
 ## How to download / install
